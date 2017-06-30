@@ -1,0 +1,2 @@
+# BatchDownWechatPicture
+微信电脑版批量保存微信图片原图
